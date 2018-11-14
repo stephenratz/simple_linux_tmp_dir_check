@@ -2,7 +2,7 @@
 # copyright: 2018, Stephen Ratz
 # license: All rights reserved
 
-title 'simple windows users dir check'
+title 'simple linux tmp dir check'
 
 control 'test_1.1_check_tmp_directory_exists' do
   impact 1.0
